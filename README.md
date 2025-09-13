@@ -1,5 +1,8 @@
 📦 WinRAR Quick Actions for macOS Finder
 
+🔹 It’s a set of instructions if you want to do it yourself. Otherwise, you need to download my files along with WinRAR and run them. 
+The options will be automatically added to your “Right Click / Quick Actions” menu. 🔹
+
 Easily add RAR/UnRAR commands to Finder’s Quick Actions menu, just like Windows context menu.
 
 ⸻
